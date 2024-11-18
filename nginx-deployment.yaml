@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: asdfkco/nginx-oss:nginxstore
+          image: asdfkco/nginx-oss:latest
           ports:
             - containerPort: 80
